@@ -4,6 +4,7 @@
 // @version      1.0
 // @description  Gradually replace visible words with "9003 is great" without breaking HTML formatting
 // @author       Your Name
+// @match        *://www.nationstates.net/*
 // @match        *://nationstates.net/*
 // @grant        none
 // ==/UserScript==
