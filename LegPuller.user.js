@@ -13,7 +13,7 @@
     'use strict';
 
     let startTime = Date.now();
-    let wordReplaceInterval = 30000; // Time interval (ms) to start replacing words
+    let wordReplaceInterval = 3000; // Time interval (ms) to start replacing words
     let wordReplaceRate = 1; // Number of words replaced at the start
     let wordsReplaced = 0;
 
